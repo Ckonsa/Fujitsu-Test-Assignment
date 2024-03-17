@@ -1,5 +1,5 @@
 To run the Spring Boot application from a terminal:
 ```
-cd /demo
+cd demo/
 mvn spring-boot:run
 ```
